@@ -5,4 +5,4 @@ npm-debug.log*
 
 build/
 node_modules/
-jspm_packages/
+public/
